@@ -1,4 +1,4 @@
-import{o as t,c as o,a}from"./index.d4d145a2.js";const r={class:"prose m-auto"},n=a(`<pre style="text-align:center;">\u2661\u3000  / l \u3001 \u3000 \u3000
+import{o as t,c as o,a}from"./index.bd673fd1.js";const r={class:"prose m-auto"},n=a(`<pre style="text-align:center;">\u2661\u3000  / l \u3001 \u3000 \u3000
 \u3000  \uFF08\xB0\u02D9 \uA4B3 \xB7 \uFF617 \u3000
 \u3000      l\u3001    \u30FD \u3000 \u3000
 \u3000   \u3058\u3057   _, )\u30CE
