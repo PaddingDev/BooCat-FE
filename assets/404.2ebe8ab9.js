@@ -1,1 +1,0 @@
-import{o,c as s,a as t}from"./index.e40f257f.js";const n={class:"prose m-auto"},a=t("h1",null,"404 Not Found",-1),c=t("p",null,"Hello? Someone there?",-1),r=[a,c],u={__name:"404",setup(_,{expose:e}){return e({frontmatter:{}}),(m,d)=>(o(),s("div",n,r))}};export{u as default};
